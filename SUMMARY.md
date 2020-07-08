@@ -8,4 +8,5 @@
 * [Vistas](vistas/README.md)
   * [Sociedad](vistas/sociedad.md)
   * [Instructores](vistas/instructores.md)
+  * [Planes y programas](vistas/planes-y-programas.md)
 
